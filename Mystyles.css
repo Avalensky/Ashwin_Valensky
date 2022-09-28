@@ -1,0 +1,17 @@
+body { background-color: lightblue;
+
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Ashwin{
+ padding-left: 45%;
+}
